@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(90deg, #5300ff, #2353ff, rgba(70,211,255,1))
+}
+div{
+    font-family: Roboto, arial;
+}
+
+p{
+    margin: 0;
+}
